@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-06-08T12:05:55" hostname="DESKTOP-5MR2H4B" time="0.101">
+  <properties/>
+  <testcase name="testPlus()" classname="CalculatorTest" time="0.086"/>
+  <testcase name="testIsPositive()" classname="CalculatorTest" time="0.004"/>
+  <testcase name="testMultiply()" classname="CalculatorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
